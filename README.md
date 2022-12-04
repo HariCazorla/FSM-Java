@@ -1,4 +1,4 @@
-#Finite State Machine in Java
+# Finite State Machine in Java
 A simple state machine implementation. We can create states, add transitions and start the state machine.
 We can start each state machine in a seperate thread.
 
