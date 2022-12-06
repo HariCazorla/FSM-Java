@@ -22,6 +22,7 @@ public class MainApplication {
             sm.addTransition(state2, state3, state3);
             executorService.submit(sm);
         }
+        executorService.shutdown();
     }
 }
 
